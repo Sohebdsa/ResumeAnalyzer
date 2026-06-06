@@ -1,5 +1,5 @@
-const API_BASE = 'http://localhost:5000/api'
-
+// const API_BASE = 'http://localhost:5000/api' //Devlopment
+const API_BASE = 'http://43.205.235.10:5000/api' //production
 export const api = {
   // Upload a resume file for analysis
   async uploadResume(file, jobTitle = '', jobDescription = '') {
