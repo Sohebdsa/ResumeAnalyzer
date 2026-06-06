@@ -160,42 +160,42 @@ ResumeAnalyzer/
 ### 🏠 Dashboard
 > Overview of all analyzed resumes, ATS pass rate, and quick upload CTA.
 
-![Dashboard Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=Dashboard+—+Resume+Intelligence+Overview)
+![Dashboard Screenshot](./preview/dashboard.png)
 
 ---
 
 ### 📤 Analyze Page
 > Drag & drop your resume, add an optional job description, and watch the AI pipeline run in real time.
 
-![Analyze Page Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=Analyze+Page+—+Upload+%2B+Pipeline+Progress)
+![Analyze Page Screenshot](./preview/analyze.png)
 
 ---
 
 ### 📊 Report — Analysis Tab
 > ATS score ring, keyword breakdown (matched vs. missing), AI suggestions with error/warning/success icons, and a quick before/after improvement preview.
 
-![Report Analysis Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=Report+—+Scores+%2B+Keywords+%2B+Suggestions)
+![Report Analysis Screenshot](./preview/report.png)
 
 ---
 
 ### ✍️ Report — AI Rewrite Tab
 > Full section-by-section rewrite: new summary, every experience bullet, projects, skills — all with metrics and action verbs. Copy buttons per section + full-resume copy.
 
-![AI Rewrite Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=AI+Rewrite+Tab+—+Full+Resume+Rewritten+by+Gemini)
+![AI Rewrite Screenshot](./preview/airewrite.png)
 
 ---
 
 ### 🏗️ Resume Builder
 > Edit any field in the rewritten resume, switch between 5 styled templates (dark, light, minimal, warm, executive), preview in a new tab, and export as print-ready HTML → PDF.
 
-![Builder Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=Resume+Builder+—+Edit+%2B+Templates+%2B+Export)
+![Builder Screenshot](./preview/builder.png)
 
 ---
 
 ### 📁 Reports History
 > Browse all past analyzed resumes with scores, ATS pass/fail badges, keyword match %, and fix count.
 
-![Reports History Screenshot](https://via.placeholder.com/1280x720/0a0a0b/c6f135?text=Reports+History+—+All+Analyzed+Resumes)
+![Reports History Screenshot](./preview/report_history.png)
 
 ---
 
